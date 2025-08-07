@@ -14,3 +14,5 @@ Event and Incident management: https://learn.microsoft.com/en-us/training/module
 Copilot: https://learn.microsoft.com/en-us/training/paths/copilot-foundations/
 
 GitHub Copilot: https://learn.microsoft.com/en-us/training/courses/gh-300t00
+
+Anomaly detection file: https://github.com/deepanshuMeteor/aiops-lab-dp/tree/main/scripts
